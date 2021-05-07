@@ -1,0 +1,56 @@
+{
+	"sheets": [
+		{
+			"name": "ConstDb",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "constId"
+				},
+				{
+					"typeStr": "1",
+					"name": "valueName1",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "value1",
+					"opt": true
+				},
+				{
+					"typeStr": "1",
+					"name": "valueName2",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "value2",
+					"opt": true
+				},
+				{
+					"typeStr": "1",
+					"name": "valueName3",
+					"opt": true
+				},
+				{
+					"typeStr": "4",
+					"name": "value3",
+					"opt": true
+				}
+			],
+			"lines": [
+				{
+					"value1": 3,
+					"value2": 1000,
+					"constId": "PlayerSettings",
+					"valueName1": "HP",
+					"valueName2": "Gold"
+				}
+			],
+			"separators": [],
+			"props": {}
+		}
+	],
+	"customTypes": [],
+	"compress": false
+}
